@@ -84,15 +84,16 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\starter scripts\addingredients.cs" />
-    <Compile Include="Assets\starter scripts\beatRhythm.cs" />
-    <Compile Include="Assets\starter scripts\curdCut.cs" />
-    <Compile Include="Assets\starter scripts\drainCurd.cs" />
-    <Compile Include="Assets\starter scripts\growmilk.cs" />
-    <Compile Include="Assets\starter scripts\milktimer.cs" />
-    <Compile Include="Assets\starter scripts\stateMachine.cs" />
-    <Compile Include="Assets\starter scripts\stirBallColl.cs" />
-    <Compile Include="Assets\starter scripts\stretchCurd.cs" />
+    <Compile Include="Assets\starter scripts\cheesemaking\addingredients.cs" />
+    <Compile Include="Assets\starter scripts\cheesemaking\beatRhythm.cs" />
+    <Compile Include="Assets\starter scripts\cheesemaking\curdCut.cs" />
+    <Compile Include="Assets\starter scripts\cheesemaking\drainCurd.cs" />
+    <Compile Include="Assets\starter scripts\cheesemaking\growmilk.cs" />
+    <Compile Include="Assets\starter scripts\cheesemaking\milktimer.cs" />
+    <Compile Include="Assets\starter scripts\cheesemaking\stateMachine.cs" />
+    <Compile Include="Assets\starter scripts\cheesemaking\stirBallColl.cs" />
+    <Compile Include="Assets\starter scripts\cheesemaking\stretchCurd.cs" />
+    <Compile Include="Assets\starter scripts\shop\UIScriptforOrders.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\SyntaxTree\UnityVS\2015\UnityVS.CSharp.targets" />
 </Project>
