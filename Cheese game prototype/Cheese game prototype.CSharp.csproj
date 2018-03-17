@@ -93,6 +93,8 @@
     <Compile Include="Assets\starter scripts\cheesemaking\stateMachine.cs" />
     <Compile Include="Assets\starter scripts\cheesemaking\stirBallColl.cs" />
     <Compile Include="Assets\starter scripts\cheesemaking\stretchCurd.cs" />
+    <Compile Include="Assets\starter scripts\shop\CheeseCover.cs" />
+    <Compile Include="Assets\starter scripts\shop\MozzOrder.cs" />
     <Compile Include="Assets\starter scripts\shop\UIScriptforOrders.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\SyntaxTree\UnityVS\2015\UnityVS.CSharp.targets" />
